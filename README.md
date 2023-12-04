@@ -1,6 +1,5 @@
 <h1 align="left">Heyy!! It's me, Jcube...</h1>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jash-j3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Jcube's%20Github%20Stats" height="250" alt="stats graph"  />
@@ -52,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jash-j3/jash-j3/output/snake.svg" alt="Snake animation" />
 
-###
