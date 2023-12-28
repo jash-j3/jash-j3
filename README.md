@@ -1,21 +1,18 @@
-<h1 align="left">Heyy!! It's me, Jcube...</h1>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jash-j3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Jcube's%20Github%20Stats" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-j3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-j3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
-
 <img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-
 ###
-
-
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/jash-jhatakia-04897b226/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:jash.jhatakia@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://discordapp.com/users/893927145829695528"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://www.instagram.com/jcube_8990/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+</div>
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,9 +38,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
-
 ###
-
 <br clear="both">
-
-
